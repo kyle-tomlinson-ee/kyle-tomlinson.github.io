@@ -267,3 +267,35 @@ section li {
 .reference-design a:hover {
     text-decoration: underline;
 }
+
+.project-image {
+    margin-top: 30px;
+}
+
+.project-image img {
+    display: block;
+    width: 100%;
+    max-width: 900px;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 8px;
+    border: 1px solid #e5e7eb;
+    background-color: white;
+}
+
+.image-caption {
+    max-width: 900px;
+    margin: 15px auto 0 auto;
+    font-size: 14px;
+    color: #6b7280;
+}
+
+.image-caption a {
+    color: #2563eb;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.image-caption a:hover {
+    text-decoration: underline;
+}
