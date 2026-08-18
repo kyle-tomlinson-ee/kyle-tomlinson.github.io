@@ -241,3 +241,29 @@ section ul {
 section li {
     margin-bottom: 10px;
 }
+
+.reference-design {
+    background-color: #eef2ff;
+    border-left: 4px solid #2563eb;
+    padding: 20px 25px;
+    margin: 25px 0 35px 0;
+    border-radius: 6px;
+}
+
+.reference-design strong {
+    font-size: 18px;
+}
+
+.reference-design p {
+    margin: 10px 0;
+}
+
+.reference-design a {
+    color: #2563eb;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.reference-design a:hover {
+    text-decoration: underline;
+}
