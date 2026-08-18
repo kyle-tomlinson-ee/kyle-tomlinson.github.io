@@ -215,3 +215,29 @@ footer {
         grid-template-columns: repeat(2, 1fr);
     }
 }
+/* Project page */
+
+.project-placeholder {
+    margin-top: 30px;
+    min-height: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #e5e7eb;
+    border: 2px dashed #9ca3af;
+    border-radius: 10px;
+    color: #6b7280;
+}
+
+.project-placeholder p {
+    margin: 0;
+}
+
+section ul {
+    max-width: 750px;
+    padding-left: 25px;
+}
+
+section li {
+    margin-bottom: 10px;
+}
